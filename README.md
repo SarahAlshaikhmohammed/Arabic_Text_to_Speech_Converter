@@ -1,5 +1,5 @@
 
-# Arabic Text-to-Speech Converter Using gTTS
+# Arabic Text-to-Speech Converter
 
 This project demonstrates how to convert Arabic text to speech using the Google Text-to-Speech (gTTS) library in Python. The resulting audio is saved as an MP3 file.
 
